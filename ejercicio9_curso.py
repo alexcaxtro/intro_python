@@ -1,4 +1,4 @@
-#Definir una función que reciba nombre y apellido y los vaya agregando a un archivo
+#Definir una función que reciba nombre y apellido y los vaya agregando a un archivo interectuando con el usuario
 nombreOri = input('Escribe un nombre ')
 apellidoOri = input('Escribe un Apellido ')
 nombre = nombreOri.capitalize()
